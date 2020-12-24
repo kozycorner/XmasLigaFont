@@ -80,7 +80,7 @@ CR
 );
 }
 );
-date = "2020-12-23 04:26:01 +0000";
+date = "2010-05-11 04:26:01 +0000";
 designer = Kozy;
 disablesNiceNames = 1;
 familyName = Xmas;
@@ -6401,6 +6401,6 @@ weightClass = Normal;
 }
 );
 unitsPerEm = 2048;
-versionMajor = 0;
+versionMajor = 4;
 versionMinor = 10;
 }
